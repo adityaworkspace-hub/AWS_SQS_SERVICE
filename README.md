@@ -12,7 +12,7 @@ Services Used
 
 Configuration Details
 Parameter | Configuration
-AWS Region | Europe (Ireland) eu-west-1
+AWS Region | Europe (Ireland) 
 Queue Name | Public_Queue
 Queue Type | Standard Queue
 Encryption | Amazon SQS Key (SSE-SQS)
@@ -34,8 +34,8 @@ Simulated upstream service publishing by generating and sending messages to the 
 
 Step 4 - Multi-User Message Polling & Verification
 Verified decoupled message consumption across independent console sessions:
-- Initiated polling from the Aditya user session and verified successful receipt of message payload ID 8fd90a98-2b1a-4f9b-be14-6684095e14a8.
-- Initiated polling from the Karthi user session and retrieved payload ID e7a83c04-5979-4aea-b1a4-fa44c8749b29.
+- Initiated polling from the Aditya user session and verified successful receipt of message payload ID oioi.....................5e14a8.
+- Initiated polling from the Karthi user session and retrieved payload ID e.........................749b29.
 - Validated message body persistence, delivery delay handling, and visibility attributes.
 
 Project Verification & Screenshots
