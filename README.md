@@ -1,4 +1,4 @@
-AWS SQS Multi-User Polling
+                                AWS SQS Multi-User Polling
 
 Project Overview
 This project demonstrates how to implement asynchronous message processing and distributed workload decoupling using Amazon Simple Queue Service (SQS) and AWS Identity and Access Management (IAM).
@@ -67,5 +67,7 @@ Learning Outcomes
 - Handled message lifecycle operations including delivery delay, message bodies, and polling mechanisms.
 
 Author
+
 ADITYA MANIVANNAN
+
 AWS Cloud | DevOps Engineer
